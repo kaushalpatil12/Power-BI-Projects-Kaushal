@@ -8,6 +8,6 @@
 6. 
 
 
-<img src='E Commerce Data Analysis.jpg' class="center">
-<img src='Power Bi Dashboard.jpg' class="center">
-<img src='Shopping Data.jpg' class="center">
+<img src='E Commerce Data Analysis.png' class="center">
+<img src='Power Bi Dashboard.png' class="center">
+<img src='Shopping Data.png' class="center">
